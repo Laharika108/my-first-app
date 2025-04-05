@@ -106,4 +106,3 @@ const PRODUCTS = [
     }
     
     export default App;
-    
